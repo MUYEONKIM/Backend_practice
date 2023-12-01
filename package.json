@@ -1,0 +1,22 @@
+{
+  "name": "Backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "MUYEONKIM <rlaandus2@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "t": "ts-node"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@apollo/server": "^4.9.0",
+    "firebase": "^10.1.0",
+    "graphql": "^16.7.1",
+    "mysql": "^2.18.1",
+    "pg": "^8.11.1",
+    "ts-node": "^10.9.1",
+    "typeorm": "^0.3.17"
+  }
+}
