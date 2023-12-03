@@ -16,4 +16,5 @@ export class Board extends BaseEntity {
 
   @Column({ default: false })
   isDeleted!: boolean;
+  
 }
